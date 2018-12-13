@@ -1,7 +1,7 @@
 {
     "name": "feiger/hello",
     "description": "test composer package",
-    "license": "MIT License",
+    "license": "MIT",   
     "authors": [
         {
             "name": "feiger",
